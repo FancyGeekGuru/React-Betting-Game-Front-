@@ -1,6 +1,6 @@
 # betting-game-frontend
 
-Link to Backend repo: https://github.com/NovatecConsulting/betting-game-backend
+Link to Backend repo: https://github.com/fancydev0225/betting-game-backend
 
 # Goals
 
